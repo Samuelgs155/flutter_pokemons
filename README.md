@@ -7,12 +7,15 @@ A modern Pokédex mobile application built with Flutter, consuming the PokeAPI t
 ## ✨ Preview
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="180"/>
-  <img src="assets/screenshots/filters.png" width="180"/>
-  <img src="assets/screenshots/details_about.png" width="180"/>
-  <img src="assets/screenshots/details_stats.png" width="180"/>
+  <img src="assets/screenshots/Home.PNG" width="180"/>
+  <img src="assets/screenshots/Home_search.PNG" width="180"/>
+  <img src="assets/screenshots/details_about.PNG" width="180"/>
+  <img src="assets/screenshots/details_stats.PNG" width="180"/>
 </p>
 
+## 🎥 Demo
+
+<img src="assets/screenshots/demo.gif" width="300"/>
 ---
 
 ## 🚀 Features
@@ -68,9 +71,7 @@ Data provided by:
 <img src="assets/screenshots/details_move.PNG" width="300"/>
 <img src="assets/screenshots/details_stats.PNG" width="300"/>
 
-## 🎥 Demo
 
-<img src="assets/screenshots/demo.gif" width="300"/>
 
 ---
 
