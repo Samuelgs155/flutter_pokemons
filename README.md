@@ -52,19 +52,21 @@ Data provided by:
 ## 📸 Screenshots
 
 ### 🏠 Home
-<img src="assets/screenshots/home.png" width="300"/>
+<img src="assets/screenshots/Home.PNG" width="300"/>
 
 ### 🔍 Filters
-<img src="assets/screenshots/filters.png" width="300"/>
+<img src="assets/screenshots/Home_filter.PNG" width="300"/>
 
 ### ❤️ Favorites
-<img src="assets/screenshots/favorites.png" width="300"/>
+<img src="assets/screenshots/Home_fav.PNG" width="300"/>
+<img src="assets/screenshots/Home_fav.PNG" width="300"/>
+<img src="assets/screenshots/Home_search.PNG" width="300"/>
 
-### 📄 Details (About)
-<img src="assets/screenshots/details_about.png" width="300"/>
-
-### 📊 Details (Stats)
-<img src="assets/screenshots/details_stats.png" width="300"/>
+### 📄 Details 
+<img src="assets/screenshots/details_about.PNG" width="300"/>
+<img src="assets/screenshots/details_extras.PNG" width="300"/>
+<img src="assets/screenshots/details_move.PNG" width="300"/>
+<img src="assets/screenshots/details_stats.PNG" width="300"/>
 
 ## 🎥 Demo
 
